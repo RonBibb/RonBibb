@@ -19,6 +19,7 @@ Atlanta-area engineer with 35+ years building data-heavy systems — currently c
 | Repo | Paper | Status |
 |---|---|---|
 | **[sparc-halo-shells](https://github.com/RonBibb/sparc-halo-shells)** | Paper I — Methodology and strict-cap catalog (PASP submitted) | v7.2.0 archived at Zenodo (DOI: 10.5281/zenodo.20263016) |
+| **[sparc-halo-shell-reality](https://github.com/RonBibb/sparc-halo-shell-reality)** | Paper II — Population statistics and shell-reality validation | Polishing; held pending Paper I outcome |
 | **[sparc-shells-relaxed](https://github.com/RonBibb/sparc-shells-relaxed)** | Paper III — Relaxed-cap catalog, hierarchical Υ, DGC-tier reporting | Pre-writing |
 | **[sparc-shells-imbh](https://github.com/RonBibb/sparc-shells-imbh)** | Paper IV — Shell-IMBH spatial association (cross-tracer test) | Pre-writing |
 
@@ -57,4 +58,4 @@ Career path: Navy reactor operator → mainframe-to-web migrations → SOA/ASP.N
 
 ---
 
-<sub>*Outside of work: aphantasic, ENTP, Navy veteran, dog-dad of Princess Buttercup. Process geometry through structural relationships rather than images. Push hard on ideas; prefer terse technical engagement over enthusiasm.*</sub>
+*Outside of work: aphantasic, ENTP, Navy veteran, dog-dad of Princess Buttercup. Process geometry through structural relationships rather than images. Push hard on ideas; prefer terse technical engagement over enthusiasm.*
